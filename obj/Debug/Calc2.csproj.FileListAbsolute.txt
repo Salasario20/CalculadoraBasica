@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\Calc2\bin\Debug\Calc2.exe.config
+C:\Users\gabri\source\repos\Calc2\bin\Debug\Calc2.exe
+C:\Users\gabri\source\repos\Calc2\bin\Debug\Calc2.pdb
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.Form1.resources
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.Properties.Resources.resources
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.exe
+C:\Users\gabri\source\repos\Calc2\obj\Debug\Calc2.pdb
